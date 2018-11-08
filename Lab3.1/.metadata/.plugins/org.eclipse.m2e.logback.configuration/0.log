@@ -1,0 +1,42 @@
+2018-11-08 09:43:33,240 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2018-11-08 09:43:33,271 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2018-11-08 09:43:33,297 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2018-11-08 09:43:33,320 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2018-11-08 09:44:04,246 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/pom.xml
+2018-11-08 09:44:04,885 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2018-11-08 09:44:04,939 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2018-11-08 09:44:05,956 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.maven:quickstart:0.0.1-SNAPSHOT @ /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/pom.xml.
+2018-11-08 09:44:06,206 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quickstart/src/main/java
+2018-11-08 09:44:06,209 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quickstart/src/test/java
+2018-11-08 09:44:06,973 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-11-08 09:44:07,670 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:44:07,671 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/main/resources
+2018-11-08 09:44:07,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:44:07,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/test/resources
+2018-11-08 09:44:17,446 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2018-11-08 09:44:41,915 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-08 09:45:00,717 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart
+2018-11-08 09:45:00,717 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2018-11-08 09:48:22,699 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.maven:quickstart:0.0.1-SNAPSHOT @ /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/pom.xml.
+2018-11-08 09:48:22,877 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.pom
+2018-11-08 09:48:22,917 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.pom
+2018-11-08 09:48:22,941 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2018-11-08 09:48:22,968 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2018-11-08 09:48:22,994 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+2018-11-08 09:48:23,088 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+2018-11-08 09:48:23,362 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:23,363 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/main/resources
+2018-11-08 09:48:23,367 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:23,367 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/test/resources
+2018-11-08 09:48:24,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:24,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/main/resources
+2018-11-08 09:48:24,515 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:24,515 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/test/resources
+2018-11-08 09:49:01,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:49:01,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/main/resources
+2018-11-08 09:49:01,812 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:49:01,813 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/test/resources
+2018-11-08 09:52:27,216 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:52:27,216 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/main/resources
+2018-11-08 09:52:27,218 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:52:27,218 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/Dropbox/Bicocca/3 anno/Ingegneria del software/Lab3.1/quickstart/src/test/resources
